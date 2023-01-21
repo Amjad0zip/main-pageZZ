@@ -65,6 +65,11 @@
 }
 
 @media (max-width: 768px) {
+  body #scene {
+    display:flex;
+    width: 300px;
+    height: 400px;
+  }
 
 
 
